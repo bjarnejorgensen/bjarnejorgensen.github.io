@@ -2,7 +2,7 @@
 layout: post
 title:  "Geometric fonts"
 date:   2015-09-06 21:28:24
-categories: font
+categories: font post
 ---
 A [sitepoint.com](http://www.sitepoint.com/geometric-fonts/) article describes 6 (mostly) free geometric fonts.
 
@@ -11,7 +11,7 @@ A [sitepoint.com](http://www.sitepoint.com/geometric-fonts/) article describes 6
 
 This font is a bit funky - are is basically most useful for posters.
 See [Emil Kozole' page](https://www.behance.net/gallery/Attitude-font/6822285) for more information.
-See [description](description/attitude) for more details.
+See [description](description/attitude.html) for more details.
 
 # Biko
 *Free for personal use *
