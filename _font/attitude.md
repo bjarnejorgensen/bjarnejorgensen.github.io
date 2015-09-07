@@ -2,7 +2,7 @@
 layout: post
 title:  "Attitude"
 date:   2015-09-07 09:24:24
-categories: font, post
+categories: font
 ---
 #Attitude
 **Disclaimer**: *This is not completely free - but requires a twitter or facebook post.*
@@ -18,25 +18,25 @@ This is a font that is best used for posters.
 The versions **sliced**, **soldier**, **drunk** and **wasted** can be ignored. The letters are already hard to read
 and making them more obscure does no good.
 
-* **Sliced** ![Attitude Sliced](../images/attitude-sliced.png)
+* **Sliced** ![Attitude Sliced](images/attitude-sliced.png)
 
-* **Soldier** ![Attitude Soldier](../images/attitude-soldier.png)
+* **Soldier** ![Attitude Soldier](images/attitude-soldier.png)
 
-* **Drunk** ![Attitude Drunk](../images/attitude-drunk.png)
+* **Drunk** ![Attitude Drunk](images/attitude-drunk.png)
 
-* **Wasted** ![Attitude Wasted](../images/attitude-wasted.png)
+* **Wasted** ![Attitude Wasted](images/attitude-wasted.png)
 
 However I could imaging using e.g. sliced on top of a regular using different colors:
-![Two layers: regualar (bottom) and sliced (top)](../images/attitude-merge.png)
+![Two layers: regualar (bottom) and sliced (top)](images/attitude-merge.png)
 
 
 The 
 
-* **3D** ![Attitude 3d](../images/attitude-3d.png)
+* **3D** ![Attitude 3d](images/attitude-3d.png)
 
-* **Inline** ![Attitude Inline](../images/attitude-inline.png)
+* **Inline** ![Attitude Inline](images/attitude-inline.png)
 
-* **Regular** ![Attitude Regular](../images/attitude-regular.png)
+* **Regular** ![Attitude Regular](images/attitude-regular.png)
 
 are more or less readable - and can produce some magic for short sentences.
 

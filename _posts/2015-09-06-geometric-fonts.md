@@ -2,7 +2,7 @@
 layout: post
 title:  "Geometric fonts"
 date:   2015-09-06 21:28:24
-categories: font post
+categories: font
 ---
 A [sitepoint.com](http://www.sitepoint.com/geometric-fonts/) article describes 6 (mostly) free geometric fonts.
 
@@ -10,11 +10,11 @@ A [sitepoint.com](http://www.sitepoint.com/geometric-fonts/) article describes 6
 **Disclaimer**: *This is not completely free - but requires a twitter or facebook post.*
 
 This font is a bit funky - are is basically most useful for posters.
-![The regular version](images/attitude-regular.png)
+![The regular version](/font/images/attitude-regular.png)
 
 See [Emil Kozole' page](https://www.behance.net/gallery/Attitude-font/6822285) for more information.
 
-See [this](description/attitude.html) for more details.
+See [this](font/attitude.html) for more details.
 
 ---
 
