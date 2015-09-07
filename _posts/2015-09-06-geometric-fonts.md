@@ -14,7 +14,7 @@ This font is a bit funky - are is basically most useful for posters.
 
 See [Emil Kozole' page](https://www.behance.net/gallery/Attitude-font/6822285) for more information.
 
-See [this](font/attitude.html) for more details.
+See [this](/font/attitude.html) for more details.
 
 ---
 
