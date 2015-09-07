@@ -13,3 +13,8 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 highlighter: pygments #GitHub does not support 'true' (see mail from 2015sep)
+
+# Collections
+collections:
+  font:
+    output: true
