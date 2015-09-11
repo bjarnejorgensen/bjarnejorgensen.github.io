@@ -21,6 +21,8 @@ See [this](/font/attitude.html) for more details.
 # Biko
 *Free for personal use*
 
+![Example](/font/images/biko-parallel.png)
+
 See [DaFont](http://www.dafont.com/biko.font) for more information.
 
 See [this](/font/biko.html) for more details.
