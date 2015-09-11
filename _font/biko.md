@@ -16,32 +16,40 @@ categories: font
 
 ##Example 
 This example uses the **bold** version for the title and the **regular** for the rest.
-![Example](images/biko - example.png)
+
+![Example](images/biko-example.png)
 
 ##Details
 The Biko is a strict font that does not have any extra decorations.
 Every stroke have the same width.
 
-Upper case letters with "details" in the middle part of the letter are "lifted" so the letters are divided in 1/3 + 2/3
-like seen in B, E, G or H.
+### Heights
+![](images/biko-divisions.png)
+Upper case letters with "details" in the middle part of the letter are "lifted" so the letters are divided in thirds. One third above the *red* line - and 2 thirds below.
 
+* BEFGHPWXY
 
-However letters like 
+However letters
 
-* A (horizontal stroke with two end points)
-* M, W, X, Y (crossing strokes)
+* A and M are using the *blue* line as rest. (Also applies to X to some extent). They would look funny if they used the *red* line.
+
+* Q is the odd man here - but it is a perfect circle, and this brings the center point into play
+
 
 Lower case letters are using the 2/3 height of the upper case letters.
 ![](images/biko-height.png)
 
 
-The use of fixed stroke width and strict design makes the "reuse" of letterforms easier - but also gives a symmetric feel.
+The use of fixed stroke width and strict design makes the "reuse" of letterforms easier - but also gives a harmonic and symmetric feel.
+
 Various letter forms do overlap:
+
 * P -> BR
-* C -> G
+* C -> GOQ
 * F -> E
 * c -> adegoq + flipped in bp
-* The 'triangle' in XYMW
+
+![](images/biko-overlap.png)
 
 Others are flipped / rotated
 * b -> dpq
@@ -56,8 +64,12 @@ An interesting detail is the M is only slightly wider than N.
 
 ![An N superimposed on M](images/biko-N-in-M.png)
 
+Nor is the 'triangle' in MWXY exact the same.
+
+Other potential reuses are u->hmn and l->bdhk
+
 
 #Exception
 The Æ (AE ligature) does not use the normal E but rather an E with a lower middle stroke. It must because of the middle stroke in the A are lower - and visual it would look better this way.
 
---insert image--
+![](images/biko-AE-E.png)
