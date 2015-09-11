@@ -23,6 +23,8 @@ See [this](/font/attitude.html) for more details.
 
 See [DaFont](http://www.dafont.com/biko.font) for more information.
 
+See [this](/font/biko.html) for more details.
+
 ---
 
 # Geomancy
