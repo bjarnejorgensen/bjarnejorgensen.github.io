@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts about Unity</h1>
+
+  <ul class="post-list">
+    {% for unityPost in site.unity %}
+      <li>
+        <span class="post-meta">{{ unityPost.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ unityPost.url | prepend: site.baseurl }}">{{ unityPost.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

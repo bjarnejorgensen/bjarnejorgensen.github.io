@@ -16,3 +16,9 @@ highlighter: pygments #GitHub does not support 'true' (see mail from 2015sep)
 collections:
   font:
     output: true
+  unity:
+    output: true
+  javascript:
+    output: true
+  other: 
+    output: true
